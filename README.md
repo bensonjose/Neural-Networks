@@ -3,10 +3,15 @@ Simple Explanation of How a Basic Neural Network Works:
 Also a Basic LLM workflow
 Hope it's easy to understand!!
 
+![Neural Network Diagram](https://miro.medium.com/v2/0*F4xBvaO68VzNrUsn.png)
+
+
 # LLM Workflow
 
 THis is a simple set of programs that show how a language model works internally, step by step. Each file demonstrates one concept in isolation.
 run them in order (01 -> 07) to build up the full picture.
+
+![LLM Workflow](https://miro.medium.com/v2/resize:fit:1200/1*jyEhnfHlpEhCANUZo53Ukw.png)
 
 
 ---
